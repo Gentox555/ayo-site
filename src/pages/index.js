@@ -49,7 +49,9 @@ const SignupPage = () => {
 
 
   return (
+   
     <main className="s ">
+      
        <div className=" flex  ">
             <a href="/" className="w-96">
             <StaticImage className="m-3 " alt="errour " src="../images/LOGO.png"/></a>
